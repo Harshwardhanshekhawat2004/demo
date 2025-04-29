@@ -68,3 +68,4 @@ listTasks();
 completeTask(1);
 removeTask(2);
 listTasks();
+let String = "hello";
